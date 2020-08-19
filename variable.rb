@@ -3,4 +3,4 @@
 
 greeting = "Hello World"
 
-put greeting
+puts greeting
